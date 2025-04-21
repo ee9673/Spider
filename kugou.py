@@ -44,22 +44,3 @@ if __name__ == "__main__" :
     df.to_csv('Top500.csv',index=False)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
